@@ -7,7 +7,7 @@
 		"href": "https://dash.cloudflare.com/",
 		"desc": "域名托管网站",
 		"logo": "static/icons/52pojie.cn.ico"
-	}, {
+	},{
 		"name": "Namesilo",
 		"href": "https://www.namesilo.com/",
 		"desc": "域名托管网站",
@@ -67,7 +67,12 @@
 		"href": "https://www.photopea.com/",
 		"desc": "在线ps，支持绝大多数功能。",
 		"logo": "static/icons/photopea.com.png"
-	}]
+	}{
+		"name": "ikun",
+		"href": "https://www.ikun.com/",
+		"desc": "鸡太美",
+		"logo": "static/icons/dayanzai.me.ico"
+	},]
 }, {
 	"_id": "yunpan",
 	"classify": "云盘储存",
